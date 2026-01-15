@@ -1,6 +1,14 @@
 /*
+
 Análise de Vendas Mensais
 Contexto: Uma empresa de e-commerce deseja analisar o desempenho de vendas ao longo do tempo.
+
+Tarefas:
+1.Calcular o faturamento total por mês e ano.
+2.Calcular o ticket médio mensal.
+3.Identificar o mês com maior faturamento.
+4.Considerar apenas vendas acima de R$ 100,00.
+
 */
 
 create database if not exists vendas;
